@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  metadataBase: new URL("https://giftcard.giftcardmallbalance.credit"),
+  metadataBase: new URL("https://giftcards.giftcardmallbalance.credit"),
   alternates: {
     canonical: "/",
   },
@@ -20,7 +20,7 @@ export const metadata = {
   ],
   openGraph: {
     type: "website",
-    url: "https://giftcard.giftcardmallbalance.credit/",
+    url: "https://giftcards.giftcardmallbalance.credit/",
     siteName: "Gift Card Balance",
     title: "GiftCardMall/Mygift | Gift Card Balance Help",
     description:
